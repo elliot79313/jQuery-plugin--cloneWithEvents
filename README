@@ -1,0 +1,9 @@
+[jQuery plugin] cloneWithEvents
+
+-------------------------------------------------
+
+Usage:
+
+$(selector).cloneWithEvents().appendTo(parent);
+
+
